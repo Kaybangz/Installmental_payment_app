@@ -1,0 +1,11 @@
+
+
+NEW RECORD ADDED
+Payment plan selected: Weekly
+Payment plan span: 2
+Amount to pay in installments: 2547
+Number of days left: 13
+Start date: 01-Dec-22
+End date: 15-Dec-22
+---------------------------------------
+---------------------------------------
